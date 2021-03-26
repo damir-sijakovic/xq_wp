@@ -1,0 +1,9 @@
+:root {
+  --colors-user-fg: yellow;
+  --colors-user-bg: brown;
+}
+
+.xq-user,.xq-hover-user:hover{color: var(--colors-user-bg) !important;background-color: var(--colors-user-fg) !important}
+.xq-text-user,.xq-hover-text-user:hover{color:var(--colors-user-bg)!important}
+
+

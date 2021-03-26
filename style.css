@@ -1,0 +1,53 @@
+/*
+Theme Name: XQ wptheme (dsijakXq)
+Theme URI: https://github.com/damir-sijakovic/xq_wp
+Author: damir sijakovic
+Author URI: https://github.com/damir-sijakovic
+Description: Boilerplate wordpress template. Compatible with w3.css. 
+Version: 1.0.0
+License: MIT
+License URI: https://opensource.org/licenses/MIT
+Text Domain: xq-wptheme-dsijakXq
+Tags: blog, education, one-column
+XQ (dsijakXq) WordPress Theme © 2021 Damir Sijakovic
+
+Tested up to: 5.6
+Requires PHP: 5.6
+*/
+
+
+
+
+body *{
+       font-family:"xqLight"; 
+}
+
+/*
+body p{
+       font-size:1.2em; 
+}
+*/
+#container {
+}
+
+.sticky {}
+
+.bypostauthor {}
+
+.wp-caption {}
+
+.wp-caption-text {}
+
+.gallery-caption {}
+
+.alignright {}
+
+.alignleft {}
+
+.aligncenter {}
+
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important
+}
+
