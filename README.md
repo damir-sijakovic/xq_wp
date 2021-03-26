@@ -23,3 +23,5 @@ Place theme into 'wordpress/wp-content/themes/' folder.
 
 This theme is licensed under MIT. You can feel free to modify it as 
 long as you keep the original copyright information.
+
+## Have fun
